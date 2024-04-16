@@ -1,2 +1,3 @@
 # RP4-Hamster-Sarcoma-CBM
 This repository contains a project aimed at modelling the spread of a transmissible sarcoma in hamsters, thought to be caused by the virus Mo-MSV. We use a compartment-based model to determine ways to eliminate the disease from an infected population. 
+Welcome to the Mo-MSV Spread and Transmissible Tumor Modeling Repository, created as part of a school project focusing on understanding how Mo-MSV (Moloney Murine Sarcoma Virus) spreads and how a transmissible tumor grows within the Syrian golden hamster. We used a compartment-based modeling approach to simulate these processes and also explored the effects of treatments using anti-viral and chemotherapeutic drugs.
